@@ -1,4 +1,4 @@
-# Blooket Hack Injectables
+# Blooket Utility Injectables
 Injecatables for the ThatFruedDued Blooket Utility (https://github.com/ThatFruedDued/blooket-utility)
 
 ## Glixzzy Scripts
