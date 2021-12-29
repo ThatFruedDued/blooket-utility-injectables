@@ -26,3 +26,9 @@ if (!blooketUtility.prefs.customMaps.value.yoshiMeadow) {
     value: false,
   };
 }
+if (
+  blooketUtility.prefs.customMaps.value.yoshiMeadow.title !==
+  "Yoshi Meadow (Yoshen)"
+)
+  blooketUtility.prefs.customMaps.value.yoshiMeadow.title =
+    "Yoshi Meadow (Yoshen)";
