@@ -1,0 +1,10 @@
+{
+	"title": "Test",
+	"description": "A test injectable for the Blooket Utility",
+	"author": "ThatFruedDued",
+	"url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/test/injectable.json",
+	"scripts": [
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/test/setup.js"
+	],
+	"cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/test/cleanup.js"
+}
