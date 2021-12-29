@@ -6,7 +6,8 @@
 	"scripts": [
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/setup.js",
 		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/islands.js",
-		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/volatileVolcano.js"
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/volatileVolcano.js",
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/yoshiMeadow.js"
 	],
 	"cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/cleanup.js"
 }

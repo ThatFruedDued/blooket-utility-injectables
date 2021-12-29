@@ -18,3 +18,11 @@ if (!blooketUtility.prefs.customMaps) {
     },
   };
 }
+if (!blooketUtility.prefs.customMaps.value.yoshiMeadow) {
+  blooketUtility.prefs.customMaps.value.yoshiMeadow = {
+    title: "Yoshi Meadow",
+    description:
+      "A custom map created by Yoshen. Will load into the Sunny Meadows map slot.",
+    value: false,
+  };
+}
