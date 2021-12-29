@@ -1,0 +1,12 @@
+{
+	"title": "Custom Maps",
+	"description": "Adds some custom tower defense maps to the game",
+	"author": "ThatFruedDued",
+	"url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/injectable.json",
+	"scripts": [
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/setup.js",
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/islands.js",
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/volatileVolcano.js"
+	],
+	"cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/customMaps/cleanup.js"
+}
