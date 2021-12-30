@@ -1,5 +1,5 @@
 # Blooket Utility Injectables
-Injecatables for the ThatFruedDued Blooket Utility (https://github.com/ThatFruedDued/blooket-utility)
+Injectables for the ThatFruedDued Blooket Utility (https://github.com/ThatFruedDued/blooket-utility)
 
 ## Glixzzy Scripts
 Injectable URL: `https://thatfrueddued.github.io/blooket-utility-injectables/injectables/glixzzy.js`  
