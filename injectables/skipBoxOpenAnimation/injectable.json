@@ -1,0 +1,12 @@
+{
+  "title": "Skip Box Open Animation",
+  "description": "An injectable to skip the box opening animation on the market page",
+  "author": "ThatFruedDued",
+  "url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/injectable.json",
+  "scripts": [
+    "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/setup.js",
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/index.js"
+  ],
+  "setupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/setup.js",
+  "cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/skipBoxOpenAnimation/cleanup.js"
+}
