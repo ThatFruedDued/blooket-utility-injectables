@@ -1,0 +1,9 @@
+{
+	"title": "Glixzzy Scripts",
+	"description": "Add Glixzzy's scripts to the GUI. Learn how to open the GUI by going to https://thatfrueddued.github.io/blooket-utility.",
+	"author": "ThatFruedDued",
+	"url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/glixzzy/injectable.json",
+	"scripts": [
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/glixzzy/gui.js"
+	]
+}
