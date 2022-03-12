@@ -1,0 +1,13 @@
+{
+  "title": "Dark Mode",
+  "description": "An injectable to enable dark mode in Blooket",
+  "author": "ThatFruedDued",
+  "url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/darkMode/injectable.json",
+  "scripts": [
+    "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/darkMode/setup.js",
+		"https://unpkg.com/darkreader@4.9.46/darkreader.js",
+		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/darkMode/darkMode.js"
+  ],
+  "setupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/darkMode/setup.js",
+  "cleanupScript": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/darkMode/cleanup.js"
+}
