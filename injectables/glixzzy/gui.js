@@ -1,5 +1,5 @@
 alert(
-  "You are recieving this warning because you are using the glixzzy injectable, which is proprietary and closed-source. The scripts in this injectable are not able to be verified to be safe by external parties, including ThatFruedDued. Please proceed with caution if you choose to use this injectable."
+  "Glixzzy has removed his Blooket hack from the internet due to legal reasons. This injectable will no longer function."
 );
 
 async function runScript(path) {
