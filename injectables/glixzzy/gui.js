@@ -1,11 +1,7 @@
-alert(
-  "Glixzzy has removed his Blooket hack from the internet due to legal reasons. This injectable will no longer function."
-);
-
-async function runScript(path) {
+sync function runScript(path) {
   eval(
-    await (
-      await fetch(
+    wait (
+      wait fetch(
         "https://raw.githubusercontent.com/glixzzy/blooket-hack/main/" + path
       )
     ).text()
