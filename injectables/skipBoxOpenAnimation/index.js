@@ -17,13 +17,13 @@ if (blooketUtility.prefs.skipBoxOpenAnimation.value) {
   styleElement.innerHTML =
 `
 .styles__mysteryBoxContainerOpen___3Kaky-camelCase {
-	animation: styles__open___3b-ns-camelCase 0s linear;
+	animation: styles__open___1v-ch-camelCase 0s linear;
 }
 .styles__unlockedBlook___2pr1Z-camelCase {
-	animation: styles__fadeInCenter___1y_-9-camelCase 0.5s linear 0.25s forwards;
+	animation: styles__fadeInCenter___1wf_p-camelCase .5s linear 0s forwards;
 }
 .styles__rarityText___1PfSA-camelCase {
-	animation: styles__fadeInCenter___1y_-9-camelCase 0.5s linear 0.5s forwards
+	animation: styles__fadeInCenter___1wf_p-camelCase .5s linear .25s forwards;
 }
 `;
   document.body.appendChild(styleElement);
